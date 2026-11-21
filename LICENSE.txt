@@ -1,0 +1,18 @@
+EA has not endorsed and does not support this product.
+
+The files in this repository (re.data, re.data.json) contain original game
+data of Command & Conquer: Red Alert (1996), (C) Electronic Arts Inc.
+All rights reserved by Electronic Arts Inc.
+
+They are NOT released under an open-source license. They are redistributed,
+unmodified and free of charge, for non-commercial use only, under the
+revocable, non-exclusive permission described in EA's Command & Conquer
+modding guidelines:
+https://www.ea.com/games/command-and-conquer/news/modding-faq
+
+No music or video files are included. This repository will be taken down
+at the request of Electronic Arts Inc.
+
+Command & Conquer and Red Alert are trademarks of Electronic Arts Inc.
+Donghyun-Re (동현레) is a non-commercial hobby project and is not affiliated
+with Electronic Arts Inc.
